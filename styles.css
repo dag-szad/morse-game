@@ -1,0 +1,17 @@
+.button {
+    padding: 50px 40px;
+    border-radius: 50%;
+    border: none;
+    background-color: blue;
+    color:beige;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.button:hover {
+    background-color: rgb(59, 59, 252);
+}
+
+.button:active {
+    background-color: rgb(175, 175, 245);
+}
